@@ -12,7 +12,7 @@ export default function DashboardPage() {
         <div>
           <h1 className="text-2xl font-semibold">Dashboard</h1>
           <p className="text-sm text-muted-foreground">
-            Overview of your school's financials and activities
+            Overview of your school&apos;s financials and activities
           </p>
         </div>
       </div>

@@ -1,8 +1,13 @@
 {
   "$schema": "https://json.schemastore.org/package.json",
-  "name": "my-students-web-mirror",
+  "name": "bubble-beginnings-junior-school",
+  "description": "Web-based mirror for Bubble Beginnings Junior School real-time updates.",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calvinhicco/Bubble-Beginnings-Junior-School.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

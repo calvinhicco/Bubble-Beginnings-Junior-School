@@ -243,7 +243,7 @@ export default function OutstandingPage() {
             <div className="mt-6 p-4 bg-blue-50 border border-blue-200 rounded-lg">
               <h4 className="font-medium text-blue-800 mb-2">Outstanding Payment Notes:</h4>
               <ul className="text-sm text-blue-700 space-y-1">
-                <li>• Outstanding amounts are calculated from each student's enrollment date</li>
+                <li>• Outstanding amounts are calculated from each student&apos;s enrollment date</li>
                 <li>• Only past due payments are included (not future months)</li>
                 <li>• Transport fees are billed separately on the 7th of each month</li>
                 <li>• Use the desktop app to record payments and manage accounts</li>

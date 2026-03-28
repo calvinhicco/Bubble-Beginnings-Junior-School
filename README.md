@@ -1,6 +1,6 @@
-# My Students Web Mirror
+# Bubble Beginnings Junior School
 
-A web-based mirror application for the My Students Track school management system.
+A web-based mirror application for Bubble Beginnings Junior School real-time updates.
 
 ## Deployment Status
 - Last updated: September 12, 2025, featuring real-time data synchronization and comprehensive staff log management.
@@ -97,4 +97,4 @@ This is a read-only mirror application. All data modifications should be done th
 
 ## License
 
-Private - Madam Boss Kids Corner School Management System
+Private - Bubble Beginnings Junior School Management System
