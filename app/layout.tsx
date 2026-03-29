@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 
 export const metadata: Metadata = {
   title: 'Bubble Beginnings Junior School - Real-Time update',
-  description: 'Bubbe Beginnings Junior School Real-Time update — synced from the desktop app. Editing is disabled.',
+  description: 'Bubble Beginnings Junior School Real-Time update — synced from the desktop app. Editing is disabled.',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -17,7 +17,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className={`${inter.variable} font-sans antialiased`}>
         <TooltipProvider>
           <div className="w-full bg-brand-gradient text-white text-sm py-2.5 text-center font-medium shadow-sm">
-            Bubbe Beginnings Junior School Real-Time update — synced from the desktop app. Editing is disabled.
+            Bubble Beginnings Junior School Real-Time update — synced from the desktop app. Editing is disabled.
           </div>
           <Nav />
           <main className="min-h-screen bg-background">
